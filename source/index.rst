@@ -2,6 +2,11 @@
 Lorem Ipsum
 #############
 
+Contents:
+
+.. toctree::
+   :maxdepth: 3
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean hendrerit
 gravida diam at blandit. Duis sit amet bibendum ipsum. Duis ullamcorper quis
 lorem sit amet egestas. Aenean justo nunc, dictum eget massa ut, interdum
@@ -22,11 +27,6 @@ rutrum purus. Integer feugiat justo in eros lobortis accumsan. Morbi vulputate
 convallis enim, ut blandit ligula viverra eu. Pellentesque sollicitudin mollis
 ligula. Etiam et massa in dui efficitur fringilla. Curabitur eu diam
 condimentum, bibendum nisi ut, pellentesque lacus.
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
 
 ************
 Cras Commodo
