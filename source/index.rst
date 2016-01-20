@@ -67,14 +67,3 @@ id elit. Praesent blandit, justo vel maximus finibus, eros mi viverra sem, nec
 scelerisque turpis mi ac elit. Curabitur in convallis risus. Phasellus
 suscipit, tellus sit amet volutpat auctor, risus ex elementum libero, nec
 tempor augue mi non ante.
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
